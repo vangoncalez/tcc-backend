@@ -1,0 +1,28 @@
+{
+  "name": "node_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "express-cache-controller": "^1.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.2.3",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.1",
+    "sequelize": "^6.31.0",
+    "ws": "^8.13.0",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
