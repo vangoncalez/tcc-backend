@@ -19,4 +19,3 @@ Instalar o módulo para reiniciar o servidor sempre que houver alteração no c�
 
 ### npm install -g nodemon
 
-tentando
